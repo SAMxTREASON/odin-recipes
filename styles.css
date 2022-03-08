@@ -1,0 +1,41 @@
+h1 {
+    background-color: green;
+    color: white;
+    text-align: center;
+    border: 5px solid black;
+}
+
+h2 {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+    border: 5px solid black;
+}
+
+h3 {
+    background-color: red;
+    color: white;
+    text-align: center;
+    border: 5px solid black;
+}
+
+h4 {
+    background-color: orange;
+    color: red;
+    text-align: center;
+    border: 5px solid black;
+}
+
+p {
+    color: brown;
+}
+
+ul {
+    background-color: yellow;
+  
+}
+
+ol {
+    background-color: green;
+    text-align: center;
+}
